@@ -1,0 +1,104 @@
+{
+  "superheros": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "intelligence": "100",
+      "strength": "70",
+      "speed": "75",
+      "durability": "70",
+      "power": "60",
+      "combat": "80"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "intelligence": "80",
+      "strength": "85",
+      "speed": "60",
+      "durability": "90",
+      "power": "70",
+      "combat": "50"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "intelligence": "80",
+      "strength": "90",
+      "speed": "95",
+      "durability": "60",
+      "power": "651",
+      "combat": "75"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "intelligence": "9000",
+      "strength": "80",
+      "speed": "65",
+      "durability": "50",
+      "power": "90",
+      "combat": "75"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "intelligence": "80",
+      "strength": "64",
+      "speed": "38",
+      "durability": "90",
+      "power": "90",
+      "combat": "79"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "intelligence": "90",
+      "strength": "80",
+      "speed": "65",
+      "durability": "70",
+      "power": "80",
+      "combat": "90"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "intelligence": "60",
+      "strength": "70",
+      "speed": "75",
+      "durability": "78",
+      "power": "60",
+      "combat": "48"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "intelligence": "78",
+      "strength": "89",
+      "speed": "98",
+      "durability": "87",
+      "power": "78",
+      "combat": "65"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "intelligence": "98",
+      "strength": "78",
+      "speed": "56",
+      "durability": "76",
+      "power": "78",
+      "combat": "76"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "intelligence": "67",
+      "strength": "70",
+      "speed": "65",
+      "durability": "87",
+      "power": "60",
+      "combat": "65"
+    }
+  ]
+}

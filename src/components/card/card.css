@@ -1,0 +1,63 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #95aeda;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 30px;
+    cursor: pointer;
+}
+
+.card-container .fs14{
+    font-size: 13px;
+    line-height: 3px;
+}
+
+.card-container .icon{
+    text-align: right;
+}
+
+.card-container .superhero-name{
+    font-size: 16px;
+}
+
+.card-container .grid-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
+}
+
+.card-container label,
+.card-container input{
+   /* display: block; */
+   text-align: left;
+   width: 80%;
+   margin: 10px auto;
+   padding: 10px;
+   box-sizing: border-box;
+   font: 1.2rem;
+}
+
+.card-container button{
+    background-color: teal;
+    color: white;
+    border: 0;
+    outline: 0;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin: 5px auto;
+    display: block;
+}
+
+.card-container .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-container .title{
+    font-size: 20px;
+    font-weight: 500;
+}
+

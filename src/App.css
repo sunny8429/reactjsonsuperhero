@@ -1,0 +1,12 @@
+.app-title {
+  margin: 15px auto 15px auto;
+  font-size: 34px;
+  color: #0ccac4;
+  text-align: center;
+}
+
+.superhero-search-box {
+  /* border:1px solid black; */
+  text-align: center;
+  margin: 15px auto 10px auto;
+}
